@@ -10,7 +10,7 @@ This conclusion has been drawn by running the 30 years as well as the 10 year mo
 
 Below are the summary statics of of the two monte carlo simulation.
 
-![](..\Images\30_year_sum.PNG)
+![](Starter_Code/Images/30_year_sum.PNG)
 
 
 **Conclusion**
